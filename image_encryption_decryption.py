@@ -8,11 +8,11 @@ import tkinter as tk
 import tkinter.messagebox as mbox
 from tkinter import ttk
 from tkinter import filedialog
-from PIL import ImageTk, Image
-import cv2
+#from PIL import ImageTk, Image
+#import cv2
 import os
 import numpy as np
-from cv2 import *
+#from cv2 import *
 import random
 
 #created main window
